@@ -65,6 +65,6 @@ public class LibraryModel {
     private int id;
     private String name;
     private String author;
-    private int pubyear;
+    private String pubyear;
     private  String lang;
 }
